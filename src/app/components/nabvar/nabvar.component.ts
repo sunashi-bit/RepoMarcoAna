@@ -9,6 +9,7 @@ import { ChangeDetectionStrategy, Component } from '@angular/core';
   ],
   styleUrl: './nabvar.component.css',
   templateUrl: './nabvar.component.html',
+  
   changeDetection: ChangeDetectionStrategy.OnPush,
 })
 export class NabvarComponent { }
